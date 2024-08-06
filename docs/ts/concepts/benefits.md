@@ -18,7 +18,7 @@ lang: ts
 ## Incredible performance powered by a custom Rust runtime
 
 To enable Encore's functionality in TypeScript, we’ve created a high-performance distributed systems runtime in Rust.
-It integrates with the standard Node.js runtime for excecuting JavaScript code, ensuring **100% compatability with the Node.js ecosystem**.
+It integrates with the standard Node.js runtime for excecuting JavaScript code, ensuring **100% compatibility with the Node.js ecosystem**.
 
 The Rust runtime does everything from handling incoming requests and making API calls, to querying databases and using Pub/Sub.
 It even handles all application observability, like distributed tracing, structured logging, and metrics.
